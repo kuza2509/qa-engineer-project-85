@@ -47,6 +47,14 @@
   status: pass
 
 - summary: |
+    Проверка возможности создавать новые задачи.
+  status: fail
+
+- summary: |
+    Проверка создать свой турнир.
+  status: pass
+  
+- summary: |
     Проверка скорости работы сайта.
   status: pass
 
